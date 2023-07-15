@@ -1,9 +1,66 @@
-<mxfile host="app.diagrams.net" modified="2023-07-09T15:15:31.479Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.6.1" etag="i-xd5CEcLoDxK18RAOsg" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-15T12:00:55.698Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="7b2zcxNwirmBZCoq-pTZ" version="21.6.2" type="github">
   <diagram name="Page-1" id="6IB2YvkC9LSRLN1tW4_e">
-    <mxGraphModel>
+    <mxGraphModel dx="2647" dy="1720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="mKlmTBmX9hLesUf-V7IB-1" value="Admin" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="110" width="280" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="mKlmTBmX9hLesUf-V7IB-3" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#030000;" vertex="1" parent="mKlmTBmX9hLesUf-V7IB-1">
+          <mxGeometry x="130" y="60" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mKlmTBmX9hLesUf-V7IB-4" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#030000;rounded=0;" edge="1" source="mKlmTBmX9hLesUf-V7IB-3" parent="mKlmTBmX9hLesUf-V7IB-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="145" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mKlmTBmX9hLesUf-V7IB-5" value="Input Email dan Password" style="html=1;whiteSpace=wrap;" vertex="1" parent="mKlmTBmX9hLesUf-V7IB-1">
+          <mxGeometry x="90" y="150" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mKlmTBmX9hLesUf-V7IB-2" value="Sistem" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="110" width="330" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="mKlmTBmX9hLesUf-V7IB-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="mKlmTBmX9hLesUf-V7IB-2" source="mKlmTBmX9hLesUf-V7IB-6" target="mKlmTBmX9hLesUf-V7IB-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mKlmTBmX9hLesUf-V7IB-6" value="Cek Data Admin" style="html=1;whiteSpace=wrap;" vertex="1" parent="mKlmTBmX9hLesUf-V7IB-2">
+          <mxGeometry x="130" y="150" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mKlmTBmX9hLesUf-V7IB-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="mKlmTBmX9hLesUf-V7IB-2" source="mKlmTBmX9hLesUf-V7IB-8" target="mKlmTBmX9hLesUf-V7IB-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mKlmTBmX9hLesUf-V7IB-18" value="Valid" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mKlmTBmX9hLesUf-V7IB-14">
+          <mxGeometry x="-0.7726" y="3" relative="1" as="geometry">
+            <mxPoint x="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mKlmTBmX9hLesUf-V7IB-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="mKlmTBmX9hLesUf-V7IB-2" source="mKlmTBmX9hLesUf-V7IB-8" target="mKlmTBmX9hLesUf-V7IB-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mKlmTBmX9hLesUf-V7IB-17" value="[Tidak Valid]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mKlmTBmX9hLesUf-V7IB-16">
+          <mxGeometry x="-0.512" relative="1" as="geometry">
+            <mxPoint x="-2" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mKlmTBmX9hLesUf-V7IB-8" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="mKlmTBmX9hLesUf-V7IB-2">
+          <mxGeometry x="162.5" y="250" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="mKlmTBmX9hLesUf-V7IB-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="mKlmTBmX9hLesUf-V7IB-2" source="mKlmTBmX9hLesUf-V7IB-13" target="mKlmTBmX9hLesUf-V7IB-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mKlmTBmX9hLesUf-V7IB-13" value="Halaman Home" style="html=1;whiteSpace=wrap;" vertex="1" parent="mKlmTBmX9hLesUf-V7IB-2">
+          <mxGeometry x="130" y="450" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mKlmTBmX9hLesUf-V7IB-15" value="Informasi Gagal Login" style="html=1;whiteSpace=wrap;" vertex="1" parent="mKlmTBmX9hLesUf-V7IB-2">
+          <mxGeometry x="40" y="330" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mKlmTBmX9hLesUf-V7IB-19" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="mKlmTBmX9hLesUf-V7IB-2">
+          <mxGeometry x="170" y="590" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mKlmTBmX9hLesUf-V7IB-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mKlmTBmX9hLesUf-V7IB-5" target="mKlmTBmX9hLesUf-V7IB-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
