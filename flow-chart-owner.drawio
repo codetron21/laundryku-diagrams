@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-19T14:24:02.391Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Ln71zWEQutMaPt5XBnzn" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-19T14:26:35.684Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Fy6vCq-BKKBKNpSIdcpL" version="21.6.3" type="github">
   <diagram name="Page-1" id="xiiCET_Y6QIltrTSjUax">
-    <mxGraphModel dx="2591" dy="1147" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2812" dy="1290" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -268,7 +268,7 @@
         <mxCell id="W2ZU-YtT6imNM6FTaDiL-27" value="Request Forgot Password" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="540" y="65" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W2ZU-YtT6imNM6FTaDiL-28" value="Admin" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="W2ZU-YtT6imNM6FTaDiL-28" value="Store Owner" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1300" y="107" width="280" height="690" as="geometry" />
         </mxCell>
         <mxCell id="W2ZU-YtT6imNM6FTaDiL-29" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#030000;" vertex="1" parent="W2ZU-YtT6imNM6FTaDiL-28">
@@ -336,7 +336,7 @@
         <mxCell id="W2ZU-YtT6imNM6FTaDiL-46" value="Get Data Transactions" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1300" y="65" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W2ZU-YtT6imNM6FTaDiL-47" value="Admin" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="W2ZU-YtT6imNM6FTaDiL-47" value="Store Owner" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1300" y="932" width="280" height="868" as="geometry" />
         </mxCell>
         <mxCell id="W2ZU-YtT6imNM6FTaDiL-48" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#030000;" vertex="1" parent="W2ZU-YtT6imNM6FTaDiL-47">
@@ -425,7 +425,7 @@
         <mxCell id="W2ZU-YtT6imNM6FTaDiL-135" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-160" y="1062" width="610" height="850" as="geometry" />
         </mxCell>
-        <mxCell id="W2ZU-YtT6imNM6FTaDiL-136" value="Admin" style="swimlane;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="W2ZU-YtT6imNM6FTaDiL-135">
+        <mxCell id="W2ZU-YtT6imNM6FTaDiL-136" value="Store Owner" style="swimlane;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="W2ZU-YtT6imNM6FTaDiL-135">
           <mxGeometry width="280" height="850" as="geometry" />
         </mxCell>
         <mxCell id="W2ZU-YtT6imNM6FTaDiL-137" value="Klik &lt;i&gt;logout&lt;/i&gt;" style="html=1;whiteSpace=wrap;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="W2ZU-YtT6imNM6FTaDiL-136">
@@ -510,7 +510,7 @@
         <mxCell id="W2ZU-YtT6imNM6FTaDiL-158" value="Logout" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-160" y="1020" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W2ZU-YtT6imNM6FTaDiL-159" value="Admin" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="W2ZU-YtT6imNM6FTaDiL-159" value="Store Owner" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2020" y="110" width="280" height="1010" as="geometry" />
         </mxCell>
         <mxCell id="W2ZU-YtT6imNM6FTaDiL-160" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#030000;" vertex="1" parent="W2ZU-YtT6imNM6FTaDiL-159">
@@ -622,7 +622,7 @@
         <mxCell id="W2ZU-YtT6imNM6FTaDiL-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="W2ZU-YtT6imNM6FTaDiL-187" target="W2ZU-YtT6imNM6FTaDiL-189">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="W2ZU-YtT6imNM6FTaDiL-216" value="Admin" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="W2ZU-YtT6imNM6FTaDiL-216" value="Store Owner" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2750" y="107" width="280" height="873" as="geometry" />
         </mxCell>
         <mxCell id="W2ZU-YtT6imNM6FTaDiL-217" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#030000;" vertex="1" parent="W2ZU-YtT6imNM6FTaDiL-216">
@@ -708,7 +708,7 @@
         <mxCell id="W2ZU-YtT6imNM6FTaDiL-241" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="W2ZU-YtT6imNM6FTaDiL-238" target="W2ZU-YtT6imNM6FTaDiL-222">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="W2ZU-YtT6imNM6FTaDiL-242" value="Admin" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="W2ZU-YtT6imNM6FTaDiL-242" value="Store Owner" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2750" y="1122" width="280" height="873" as="geometry" />
         </mxCell>
         <mxCell id="W2ZU-YtT6imNM6FTaDiL-243" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#030000;" vertex="1" parent="W2ZU-YtT6imNM6FTaDiL-242">
@@ -794,7 +794,7 @@
         <mxCell id="W2ZU-YtT6imNM6FTaDiL-266" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="W2ZU-YtT6imNM6FTaDiL-248" target="W2ZU-YtT6imNM6FTaDiL-251">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="W2ZU-YtT6imNM6FTaDiL-267" value="Admin" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="W2ZU-YtT6imNM6FTaDiL-267" value="Store Owner" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3490" y="110" width="280" height="873" as="geometry" />
         </mxCell>
         <mxCell id="W2ZU-YtT6imNM6FTaDiL-384" value="Pilih proses" style="html=1;whiteSpace=wrap;" vertex="1" parent="W2ZU-YtT6imNM6FTaDiL-267">
@@ -869,7 +869,7 @@
         <mxCell id="W2ZU-YtT6imNM6FTaDiL-288" value="Handle transaction" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="3490" y="68" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W2ZU-YtT6imNM6FTaDiL-292" value="Admin" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="W2ZU-YtT6imNM6FTaDiL-292" value="Store Owner" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4220" y="110" width="280" height="670" as="geometry" />
         </mxCell>
         <mxCell id="W2ZU-YtT6imNM6FTaDiL-365" value="Klik &lt;i&gt;track&lt;/i&gt; transaksi" style="html=1;whiteSpace=wrap;" vertex="1" parent="W2ZU-YtT6imNM6FTaDiL-292">
@@ -913,7 +913,7 @@
         <mxCell id="W2ZU-YtT6imNM6FTaDiL-313" value="Track customer destination" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="4220" y="68" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W2ZU-YtT6imNM6FTaDiL-317" value="Admin" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="W2ZU-YtT6imNM6FTaDiL-317" value="Store Owner" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4940" y="110" width="280" height="620" as="geometry" />
         </mxCell>
         <mxCell id="W2ZU-YtT6imNM6FTaDiL-343" value="Klik &lt;i&gt;track&lt;/i&gt; transaksi" style="html=1;whiteSpace=wrap;" vertex="1" parent="W2ZU-YtT6imNM6FTaDiL-317">
