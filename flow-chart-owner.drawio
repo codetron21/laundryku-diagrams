@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-19T14:26:35.684Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Fy6vCq-BKKBKNpSIdcpL" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-19T15:31:28.753Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="nYXbENfudsRNjKSarhPV" version="21.6.3" type="github">
   <diagram name="Page-1" id="xiiCET_Y6QIltrTSjUax">
-    <mxGraphModel dx="2812" dy="1290" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1663" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -565,7 +565,7 @@
         <mxCell id="W2ZU-YtT6imNM6FTaDiL-213" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="W2ZU-YtT6imNM6FTaDiL-164" source="W2ZU-YtT6imNM6FTaDiL-202" target="W2ZU-YtT6imNM6FTaDiL-212">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="W2ZU-YtT6imNM6FTaDiL-202" value="Merubah &lt;i&gt;store profile&lt;/i&gt;" style="html=1;whiteSpace=wrap;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="W2ZU-YtT6imNM6FTaDiL-164">
+        <mxCell id="W2ZU-YtT6imNM6FTaDiL-202" value="mengubah&amp;nbsp;&lt;i&gt;store profile&lt;/i&gt;" style="html=1;whiteSpace=wrap;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="W2ZU-YtT6imNM6FTaDiL-164">
           <mxGeometry x="115" y="700" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="W2ZU-YtT6imNM6FTaDiL-204" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="W2ZU-YtT6imNM6FTaDiL-164" source="W2ZU-YtT6imNM6FTaDiL-191" target="W2ZU-YtT6imNM6FTaDiL-202">
@@ -601,7 +601,7 @@
         <mxCell id="W2ZU-YtT6imNM6FTaDiL-214" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="W2ZU-YtT6imNM6FTaDiL-164" source="W2ZU-YtT6imNM6FTaDiL-212" target="W2ZU-YtT6imNM6FTaDiL-176">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="W2ZU-YtT6imNM6FTaDiL-212" value="Informasil berhasil merubah data" style="html=1;whiteSpace=wrap;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="W2ZU-YtT6imNM6FTaDiL-164">
+        <mxCell id="W2ZU-YtT6imNM6FTaDiL-212" value="Informasil berhasil mengubah data" style="html=1;whiteSpace=wrap;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="W2ZU-YtT6imNM6FTaDiL-164">
           <mxGeometry x="115" y="830" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="W2ZU-YtT6imNM6FTaDiL-180" value="Edit Store" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -863,7 +863,7 @@
         <mxCell id="W2ZU-YtT6imNM6FTaDiL-389" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="W2ZU-YtT6imNM6FTaDiL-274" source="W2ZU-YtT6imNM6FTaDiL-386" target="W2ZU-YtT6imNM6FTaDiL-286">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="W2ZU-YtT6imNM6FTaDiL-386" value="Merubah status" style="html=1;whiteSpace=wrap;" vertex="1" parent="W2ZU-YtT6imNM6FTaDiL-274">
+        <mxCell id="W2ZU-YtT6imNM6FTaDiL-386" value="mengubah status" style="html=1;whiteSpace=wrap;" vertex="1" parent="W2ZU-YtT6imNM6FTaDiL-274">
           <mxGeometry x="115" y="640" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="W2ZU-YtT6imNM6FTaDiL-288" value="Handle transaction" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
